@@ -1,2 +1,6 @@
-package Ubungen;public class ArraySum {
+package Ubungen;
+
+public class ArraySum {
+
+
 }

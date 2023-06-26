@@ -1,6 +1,6 @@
 package Ubungen;
 
-public class U_1 {
+public class FactorialCalculate {
 
 
     public static int calculateFaktoriel(int number){
