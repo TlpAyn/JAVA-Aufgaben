@@ -1,0 +1,15 @@
+Elbette! İşte Java'nın OOP (Nesne Yönelimli Programlama) özelliklerinden bazıları:
+
+1. Sınıflar ve Nesneler: Java'da nesne yönelimli programlamanın temeli sınıflar ve nesnelerdir. Bir sınıf, nesnelerin özelliklerini ve davranışlarını tanımlayan bir şablondur. Nesneler ise bu şablona göre oluşturulan örneklerdir.
+
+2. Encapsulation (Kapsülleme): Encapsulation, bir sınıfın verilerini ve metotlarını bir arada tutarak veri gizliliği sağlar. Sınıfın içindeki verilere doğrudan erişim yerine, sınıf dışındaki erişimi kontrol eden get ve set metotları kullanılır.
+
+3. Inheritance (Kalıtım): Kalıtım, bir sınıfın başka bir sınıftan özelliklerini miras alabilmesini sağlar. Kalıtım sayesinde bir sınıf, başka bir sınıfın özelliklerini ve davranışlarını kullanabilir ve bunları genişletebilir. Bu, kod tekrarını önler ve kodun yeniden kullanılabilirliğini artırır.
+
+4. Polymorphism (Çok Biçimlilik): Polimorfizm, bir nesnenin farklı şekillerde davranabilme yeteneğidir. Java'da polimorfizm, aynı isimli fakat farklı parametreler alan metotların tanımlanabilmesine ve kullanılabilmesine dayanır.
+
+5. Abstraction (Soyutlama): Soyutlama, bir sınıfın sadece gerekli olan özellikleri ve davranışları tanımlamasını sağlar. Soyut sınıflar ve arayüzler (interface) kullanarak bir sınıfın genel davranışını tanımlayabilir ve daha sonra bu soyutlamayı farklı sınıflarda uygulayabilirsiniz.
+
+6. Interface (Arayüz): Java'da bir arayüz, sınıflar arasında bir sözleşme gibi davranır. Arayüzler, belirli metotların uygulanmasını garanti eder ve sınıfların belirli bir davranışı sağlamasını sağlar. Bir sınıf birden fazla arayüzü uygulayabilir.
+
+Bu OOP özellikleri, Java'da kodun daha organize, yeniden kullanılabilir ve esnek olmasını sağlar. Nesne yönelimli programlama prensiplerini kullanarak daha sürdürülebilir ve genişletilebilir kodlar yazabilirsiniz.

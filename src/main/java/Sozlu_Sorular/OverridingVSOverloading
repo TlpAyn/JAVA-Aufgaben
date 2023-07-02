@@ -1,0 +1,2 @@
+overloading aynı isimli metotların farklı parametrelerle birden fazla kez tanımlanmasını sağlar,
+overriding ise üst sınıfta tanımlanan bir metodu alt sınıfta tekrar tanımlayarak üzerine yazmayı sağlar.

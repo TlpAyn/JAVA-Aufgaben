@@ -1,0 +1,5 @@
+Java'nın "JVM" (Java Virtual Machine) nedir ve nasıl çalışır?
+
+JVM, Java kodunu çalıştırmak için kullanılan bir sanal makinedir. Java kaynak kodu önce bytecode haline dönüştürülür,
+sonra JVM tarafından yürütülerek çalıştırılır. JVM, sınıf yükleyici, çalıştırma motoru, çalışma veri alanları ve çöp
+toplayıcı gibi bileşenleri içerir ve platform bağımsızlık sağlar.
